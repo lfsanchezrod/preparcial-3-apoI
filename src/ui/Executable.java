@@ -1,0 +1,7 @@
+package ui;
+
+public class Executable{
+    public static void main(String[] args) {
+        
+    }
+}
